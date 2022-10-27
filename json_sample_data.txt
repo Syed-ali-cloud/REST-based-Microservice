@@ -1,0 +1,35 @@
+// json create news 
+{
+        "title": "We saw the tsunami coming",
+        "text": "On 26th December 2004, an earthquake off the west coast of Sumatra, Indonesia,triggered a huge tsunami, which killed over 225,000 people in 11 countries.",
+        "creationDate": "2004-12-28",
+        "validFrom": "2004-12-28",
+        "validTo": "2005-01-05",
+        "pictures": [
+            {
+                "name": "tsunami",
+                "imagePath": "/images/tsunami.jpg"                
+            }
+        ],
+        "publish": false
+}
+
+
+// json update news
+{
+        "id": "16",
+        "title": "We saw the tsunami coming",
+        "text": "On 26th December 2004, an earthquake off the west coast of Sumatra, Indonesia,triggered a huge tsunami, which killed over 225,000 people in 11 countries.",
+        "creationDate": "2004-12-28",
+        "validFrom": "2004-12-28",
+        "validTo": "2005-01-05",
+        "creadtedBy": 2, 
+        "pictures": [
+            {
+                "newsId": "16",
+                "name": "tsunami",
+                "imagePath": "/images/tsunami.jpg"                
+            }
+        ],
+        "publish": false
+    }
