@@ -1,7 +1,7 @@
 # REST-based-Microservice
 Develop a REST-based microservice called NewsService.
 
-1- First Configure Apache server.
+1- Configure Apache server in eclipse.
 
 2- Configure Mysql database. (Please change username and password)
 
